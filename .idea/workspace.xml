@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="04488078-a787-4a47-a358-012009c4c4ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -160,8 +161,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -170,7 +171,7 @@
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="55" selection-start-column="55" selection-end-column="55" />
+              <caret column="37" selection-start-column="37" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -272,8 +273,8 @@
         <option value="$PROJECT_DIR$/src/main/java/mkos/caos/caos_app/Controllers/Headquarters/ProjectController.java" />
         <option value="$PROJECT_DIR$/src/main/java/mkos/caos/caos_app/Controllers/AuthController.java" />
         <option value="$PROJECT_DIR$/src/main/java/mkos/caos/caos_app/Controllers/CategoryController.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -291,10 +292,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1911" />
-    <option name="y" value="-9" />
+    <option name="x" value="-10" />
     <option name="width" value="1937" />
-    <option name="height" value="1048" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -397,7 +397,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550703250626" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550865282370" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -461,12 +461,12 @@
       <workItem from="1550140524303" duration="3162000" />
       <workItem from="1550239550067" duration="20290000" />
       <workItem from="1550518489319" duration="4557000" />
-      <workItem from="1550687312228" duration="6010000" />
+      <workItem from="1550687312228" duration="8161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="384892000" />
+    <option name="totallyTimeSpent" value="387043000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -478,9 +478,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18724832" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18724832" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -490,13 +491,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.42341042" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.42257598" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932885" weight="0.35572687" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.32850942" />
-      <window_info active="true" anchor="bottom" id="Spring" order="7" sideWeight="0.49932885" visible="true" weight="0.32850942" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" weight="0.31114328" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.49932885" weight="0.32850942" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" visible="true" weight="0.3024602" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.81910276" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -958,13 +959,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -975,10 +969,17 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="55" selection-start-column="55" selection-end-column="55" />
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
         </state>
       </provider>
     </entry>
